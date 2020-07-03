@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteBase /PPE3
+RewriteRule ^(.*)$ public/ [R,L]
